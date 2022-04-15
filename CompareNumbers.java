@@ -5,7 +5,7 @@ package ee.homeproject.first;
  Если a больше или равно b, то необходимо вывести в консоль сообщение “a >= b”, в противном случае “a < b”;
  */
 public class CompareNumbers {
-    public static void main(String [] args){
+    public static void compareNumbers(String [] args){
         int a = 9;
         int b = 8;
 
