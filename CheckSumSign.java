@@ -7,7 +7,7 @@ package ee.homeproject.first;
 в противном случае - “Сумма отрицательная”;
 */
 public class CheckSumSign {
-    public static void main(String [] args){
+    public static void checkSumSign(String [] args){
         int a = 7;
         int b = 8;
         int c = a + b;
